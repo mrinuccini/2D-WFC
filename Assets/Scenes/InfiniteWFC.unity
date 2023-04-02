@@ -403,7 +403,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a64148e5071775346ab3d15afb02f90d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxViewDist: 40
+  maxViewDist: 30
   viewer: {fileID: 1809855227}
   parent: {fileID: 588176933}
   wfc: {fileID: 588176934}
@@ -582,7 +582,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 14.171684
+  orthographic size: 8.25878
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

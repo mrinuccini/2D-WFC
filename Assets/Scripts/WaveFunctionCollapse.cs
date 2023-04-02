@@ -459,6 +459,8 @@ namespace WFC
             // Take the tile and collapse it
             WFCTile tile = map[coords];
 
+            if (tile.isCollapsed) return;
+
             // Make sure that they are still available tiles
             Debug.Assert(tile.superpositions.Count != 0, "There was no tile to choose from, chunck generation failed");
 

@@ -186,8 +186,8 @@ MonoBehaviour:
     y: 0
     width: 366
     height: 625
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -224,23 +224,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 9e600000
-      m_LastClickedID: 0
-      m_ExpandedIDs: acfffeffe4fffeffe200ffff1e01ffff8202ffff2afbffff
+      m_SelectedIDs: a25f0000
+      m_LastClickedID: 24482
+      m_ExpandedIDs: 2e5d97ff2afbffff845f00008e5f0000a25f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Viewer
+        m_OriginalName: Viewer
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 24470
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -269,8 +269,8 @@ MonoBehaviour:
     y: 0
     width: 1100
     height: 625
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 8}
@@ -524,9 +524,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 311.398, y: 356.82074, z: -12.39785}
+    m_Target: {x: 6.0383162, y: 1.4764206, z: 0.14751919}
     speed: 2
-    m_Value: {x: 311.398, y: 356.82074, z: -12.39785}
+    m_Value: {x: 6.317053, y: 1.9462016, z: 0.13846792}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -568,7 +568,7 @@ MonoBehaviour:
         m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 1, y: 1}
+      m_Size: {x: 0.50001, y: 0.50001}
     m_ShowGrid: 1
     m_GridAxis: 1
     m_gridOpacity: 0.5
@@ -577,9 +577,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 365.02853
+    m_Target: 19.208488
     speed: 2
-    m_Value: 365.02853
+    m_Value: 20.1136
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -628,7 +628,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 323
+  controlID: 3561
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -648,8 +648,8 @@ MonoBehaviour:
     y: 0
     width: 363
     height: 314
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 11}
@@ -779,22 +779,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Unity\Wave Function Collapse\2D Pipe WFC
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 62600000
-    m_LastClickedID: 24674
-    m_ExpandedIDs: 000000005660000000ca9a3bffffff7f
+    m_SelectedIDs: 5a600000
+    m_LastClickedID: 24666
+    m_ExpandedIDs: 000000005a60000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -822,7 +822,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005660000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000005a60000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -847,10 +847,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 9e600000
-    m_LastClickedInstanceID: 24734
+    m_SelectedInstanceIDs: a25f0000
+    m_LastClickedInstanceID: 24482
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000566200004a600000a45f0000a65f0000a85f0000
+    m_ExpandedInstanceIDs: c6230000566200004a600000a45f0000a65f0000a85f0000f05f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1040,7 +1040,7 @@ MonoBehaviour:
         m_Identifier: UnityEditorInternal.Profiling.CPUProfilerModule, UnityEditor.CoreModule,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
         m_PaneScroll: {x: 0, y: 0}
-        m_ViewType: 1
+        m_ViewType: 0
         updateViewLive: 0
         m_CurrentFrameIndex: -1
         m_HierarchyOverruledThreadFromSelection: 0
