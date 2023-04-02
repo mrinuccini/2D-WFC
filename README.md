@@ -50,11 +50,9 @@ This repository contains a Unity program that allows for infinite and procedural
 
 <br/>
 
-### Infite generation
+### Infinite generation
 <p align="center">
-    <video width="500" height="381" controls>
-        <source src="https://i.imgur.com/9EbE4I7.mp4" type="video/mp4">
-    </video>
+    ![InfiniteGenerationVideo](https://i.imgur.com/9EbE4I7.mp4)
     <br/>
     Infinite generation
 </p>
