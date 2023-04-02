@@ -51,11 +51,8 @@ This repository contains a Unity program that allows for infinite and procedural
 <br/>
 
 ### Infinite generation
-<p align="center">
-    [![Infinite generation video](https://img.youtube.com/vi/rIWbFmW6tmU/0.jpg)](https://www.youtube.com/watch?v=rIWbFmW6tmU)
-    <br/>
-    Infinite generation
-</p>
+[![Infinite generation video](https://img.youtube.com/vi/rIWbFmW6tmU/0.jpg)](https://www.youtube.com/watch?v=rIWbFmW6tmU)
+Infinite generation
 
 # Roadmap
 ### Compatibility
