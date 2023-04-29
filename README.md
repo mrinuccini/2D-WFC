@@ -69,6 +69,3 @@ Infinite generation
 * Clone the repository to your computer.
 * Open the project
 
-# Credits
-* [**Matthias Rinuccini**](https://github.com/mrinuccini) : Creator of the project
-
